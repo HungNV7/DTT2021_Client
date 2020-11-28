@@ -1,0 +1,45 @@
+Send: 0_Receive: 0_0_Văn Hùng_180_Diễm Quỳnh_210_Lý Vũ_150_Hữu Thắng_60Receive: 2_0_Văn Hùng_180_Diễm Quỳnh_210_Lý Vũ_150_Hữu Thắng_60Receive: 3_0_Văn Hùng_180_Diễm Quỳnh_210_Lý Vũ_150_Hữu Thắng_60Receive: 3_16.23297659999805_bong da 
+Send: 3_6.23297659999805_bong da Receive: 3_0_Văn Hùng_220_Diễm Quỳnh_210_Lý Vũ_150_Hữu Thắng_60Receive: 3_0_Văn Hùng_220_Diễm Quỳnh_230_Lý Vũ_180_Hữu Thắng_100Receive: 3_0_Văn Hùng_230_Diễm Quỳnh_250_Lý Vũ_210_Hữu Thắng_140Receive: 3_0_Văn Hùng_240_Diễm Quỳnh_270_Lý Vũ_240_Hữu Thắng_180Receive: 3_0_Văn Hùng_250_Diễm Quỳnh_290_Lý Vũ_270_Hữu Thắng_220Receive: 3_114.3456763999967_ACBD
+Send: 3_14.3456763999967_ACBD3.3878434999972_BCDA
+Send: 3_3.3878434999972_BCDAReceive: 3_116.9553383999986_cau hoi dau 
+Send: 3_16.9553383999986_cau hoi dau Receive: 3_0_Văn Hùng_280_Diễm Quỳnh_300_Lý Vũ_290_Hữu Thắng_260Receive: 3_0_Văn Hùng_310_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 3_0_Văn Hùng_310_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_0_Văn Hùng_310_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_1_Tổ chức ASEAN+3 là liên minh hợp tác giữa ASEAN và 3 quốc gia Châu Á nào?Receive: 4_0_Văn Hùng_310_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_2_5Send: 4_Receive: 4_0_Văn Hùng_310_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_1_Tổ chức ASEAN+3 là liên minh hợp tác giữa ASEAN và 3 quốc gia Châu Á nào?Receive: 4_1_Sông Bạch Đằng là ranh giới tự nhiên của 2 tỉnh thành nào?Receive: 4_0_Văn Hùng_330_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri ThứcReceive: 4_0_Văn Hùng_330_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_2_5Receive: 4_1_Khi đi mua sách, Minh mang theo 6 tờ polyme có mệnh giá không quá 50000 đồng. Khi mua một quyển sách giá 184 000 đồng, Minh phải trả bằng cả 6 tờ và nhận lại tiền thối là 2 tờ tiền giấy. Ban đầu Minh mang theo bao nhiêu tờ mệnh giá 50000 đồng?Receive: 4_0_Văn Hùng_330_Diễm Quỳnh_310_Lý Vũ_310_Hữu Thắng_300Receive: 4_2_5Receive: 4_0_Văn Hùng_330_Diễm Quỳnh_295_Lý Vũ_310_Hữu Thắng_300Receive: 4_1_Ngôi chùa nào là ngôi chùa cuối cùng được phong sắc tứ của chế độ phong kiến nước ta?Receive: 4_0_Văn Hùng_330_Diễm Quỳnh_295_Lý Vũ_310_Hữu Thắng_320Receive: 4_1_Giá 1 cái áo khoác là 300 000 vnđ. Sau khi giảm giá thì số người mua áo tăng 20% và doanh thu bán áo tăng 8%. Hỏi giá tiền của 1 cái áo khi giảm là bao nhiêu tiền?Receive: 4_0_Văn Hùng_330_Diễm Quỳnh_295_Lý Vũ_310_Hữu Thắng_300Receive: 4_2_5Send: 4_Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_295_Lý Vũ_310_Hữu Thắng_300Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri ThứcReceive: 4_0_Văn Hùng_350_Diễm Quỳnh_295_Lý Vũ_310_Hữu Thắng_330Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_295_Lý Vũ_310_Hữu Thắng_330Receive: 4_1_Tổ chức ASEAN+3 là liên minh hợp tác giữa ASEAN và 3 quốc gia Châu Á nào?Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_315_Lý Vũ_310_Hữu Thắng_330Receive: 4_1_Vào tháng 7/1940, cầu Tacoma Narrow ở Hoa Kì bỗng nhiên rung lắc dữ dội và sụp đổ vài giờ sau đó. Giả thuyết đưa ra là cây cầu bị tác động bởi cơn gió có tần số đúng bằng tần số dao động tự nhiên của cầu. Bạn hãy cho biết hiện tượng vật lí nào là cơ sở cho giả thuyết trên?Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_315_Lý Vũ_310_Hữu Thắng_330Receive: 4_2_5Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_315_Lý Vũ_310_Hữu Thắng_330Receive: 4_2_5Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_315_Lý Vũ_310_Hữu Thắng_330Receive: 4_2_5Receive: 4_0_Văn Hùng_350_Diễm Quỳnh_315_Lý Vũ_310_Hữu Thắng_330Receive: 4_2_5Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri ThứcReceive: 4_0_Văn Hùng_350_Diễm Quỳnh_345_Lý Vũ_310_Hữu Thắng_330Receive: 4_1_Đối với bếp từ, để thay đổi nhiệt độ đun, người ta thay đổi đại lượng gì của dòng điện?Send: 0_Receive: 0_0_Văn Hùng_350_Diễm Quỳnh_345_Lý Vũ_310_Hữu Thắng_330Receive: 0_0_Văn Hùng_0_Diễm Quỳnh_0_Lý Vũ_0_Hữu Thắng_0Receive: 4_0_Văn Hùng_0_Diễm Quỳnh_0_Lý Vũ_0_Hữu Thắng_0Receive: 4_1_Việc ngâm rau sống trong nước muối để diệt khuẩn là ứng dụng sự ảnh hưởng của yếu tố nào lên sinh trưởng của vi sinh vật?Receive: 4_0_Văn Hùng_0_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_0Receive: 4_1_Đường hầm giao thông dưới biển nào được hoàn thành vào năm 1994, nối liền nước Anh với châu Âu lục địa?Receive: 4_1_Trong vở chèo "Quan Âm Thị Kính", nhân vật Thị Kính sau khi đi tu đã lấy pháp hiệu là gì?Receive: 4_0_Văn Hùng_0_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_10Receive: 4_1_Bạn hãy cho biết hai cơ quan nào có vai trò chính trong việc điều hòa pH máu?Receive: 4_0_Văn Hùng_0_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_10Receive: 4_2_5Receive: 4_1_Tượng đài Mẹ Việt Nam Anh hùng tại Núi Cấm, Quảng Nam lấy nguyên mẫu hình tượng Mẹ Việt Nam anh hùng nào?Receive: 4_0_Văn Hùng_0_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_20Receive: 4_1_Đối với bếp từ, để thay đổi nhiệt độ đun, người ta thay đổi đại lượng gì của dòng điện?Receive: 4_0_Văn Hùng_10_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_20Receive: 4_1_"Chị em nặng một lời nguyền/ Phất cờ nương tử thay quyền tướng quân" nói đến hai nhân vật nào trong lịch sử nước ta?Receive: 4_0_Văn Hùng_20_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_20Receive: 4_1_Một giải đấu có 68 đội tham gia theo thể thức loại trực tiếp. Giả sử tồn tại vòng đấu mà có đội không cần phải thi đấu. Hỏi cần bao nhiêu trận đấu để tìm ra đội vô địch?Receive: 4_0_Văn Hùng_30_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_20Receive: 4_1_Theo hiệp ước Nam Cực, tài nguyên của Nam Cực chỉ được dùng cho mục đích hòa bình và mục đich nào?Receive: 2_0_Văn Hùng_30_Diễm Quỳnh_0_Lý Vũ_10_Hữu Thắng_20Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?Receive: 2_2Receive: 2_0_Văn Hùng_30_Diễm Quỳnh_10_Lý Vũ_10_Hữu Thắng_30Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?Receive: 2_2Send: 2_1_HO HAP Send: 2_0Receive: 2_0_Văn Hùng_30_Diễm Quỳnh_20_Lý Vũ_10_Hữu Thắng_30Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?Receive: 2_2Receive: 2_0_Văn Hùng_40_Diễm Quỳnh_20_Lý Vũ_10_Hữu Thắng_30Receive: 2_1_Trong vùng ánh sáng khả kiến, ánh sáng nào có bước sóng dài nhất?Receive: 2_2Send: 0_
+Receive: 1_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 3_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 3_1
+Send: 3_19.6024714999987_con di
+18.4005157999986_con di
+Send: 3_18.4005157999986_con di
+Send: 0_
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_2
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 2_1_Con HEo
+Send: 2_1_Con HEo
+Send: 2_1_Con HEo
+Send: 2_1_Con HEo
+Send: 0_
+Receive: 2_0_Văn Hung_230_Diễm Quỳnh_130_Lý Vũ_150_Hữu Thắng_130
+Receive: 2_2
+Send: 2_1_COn lon
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2

@@ -1,0 +1,116 @@
+﻿<UserControl x:Class="ClientDTT.User_Control.UC_Start"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ClientDTT.User_Control"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="#bdbdbd">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <MediaElement Name="TimeVideo" Grid.Column="0" Stretch="Fill" LoadedBehavior="Manual"/>
+        <Image Name="BackgroundImg" Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="0" Grid.RowSpan="6" Stretch="Fill"/>
+        <Grid Grid.Row="0">
+            <TextBlock Foreground="White" FontWeight="DemiBold" Background="#212121"
+                   Text="KHỞI ĐỘNG" TextAlignment="Center" FontSize="40" Padding="3"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.8*"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="0.9*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+               
+            </Grid>
+            <Grid Grid.Column="1">
+                <Image Name="imgQuestion" Grid.Column="1" Stretch="Fill"/>
+            </Grid>
+            <Border Grid.Column="2" BorderBrush="Black" BorderThickness="1" >
+                <Grid  Background="White">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.3*"></ColumnDefinition>
+                        <ColumnDefinition Width="0.7*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Border Background="White" BorderBrush="Black" CornerRadius="50">
+                            <TextBlock  Grid.Row="0" Background="#616161" Foreground="White" FontWeight="DemiBold" Margin="1"
+                   Text="Tên" TextAlignment="Center" FontSize="30"/>
+                        </Border>
+
+                        <TextBlock Name="txtBlockName1" Grid.Row="1" Background="#9e9e9e" Foreground="White" FontWeight="DemiBold" Margin="1"
+                   Text="TS1" TextAlignment="Center" FontSize="25"/>
+                        <TextBlock Name="txtBlockName2" Grid.Column="1" Grid.Row="2" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1"
+                   Text="TS2" TextAlignment="Center" FontSize="25"/>
+                        <TextBlock Name="txtBlockName3" Grid.Column="1" Grid.Row="3" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1"
+                   Text="TS3" TextAlignment="Center" FontSize="25"/>
+                        <TextBlock Name="txtBlockName4" Grid.Column="1" Grid.Row="4" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold" Margin="1"
+                   Text="TS4" TextAlignment="Center" FontSize="25"/>
+
+
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Column="2" Grid.Row="0" Background="#616161" Foreground="White" FontWeight="DemiBold" Margin="1,1,2,1"
+                   Text="Điểm" TextAlignment="Center" FontSize="30"/>
+                        <TextBlock Name="txtBlockPoint1" Grid.Row="1" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1,1,2,1"
+                   Text="0" TextAlignment="Center" FontSize="25"/>
+                        <TextBlock Name="txtBlockPoint2" Grid.Row="2" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold" Margin="1,1,2,1"
+                   Text="0" TextAlignment="Center" FontSize="25"/>
+                        <TextBlock Name="txtBlockPoint3" Grid.Column="2" Grid.Row="3" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1,1,2,1"
+                   Text="0" TextAlignment="Center" FontSize="25"/>
+                        <TextBlock Name="txtBlockPoint4" Grid.Column="2" Grid.Row="4" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1,1,2,1"
+                   Text="0" TextAlignment="Center" FontSize="25"/>
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <TextBlock Name="txtBlockQuestion"  Background="White" Foreground="Black" 
+                           Margin="10,5,10,5"
+                           FontSize="25"  TextWrapping="Wrap"/>
+            </Grid>
+            <Border Grid.Column="1" BorderBrush="Black" BorderThickness="1" >
+            <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="4*"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Viewbox Grid.Row="1">
+                    <TextBlock Name="txtBlockPoint" Foreground="White" Text="0" TextAlignment="Center"/>
+                </Viewbox>
+            </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>
