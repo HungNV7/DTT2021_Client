@@ -32,7 +32,7 @@ namespace ClientDTT.SupportClass
             position = file.ReadLine();
             file.Close();
             IP = new IPEndPoint(IPAddress.Parse(ipString), 9999);
-            client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
+            client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             try
             {
                 client.Connect(IP);

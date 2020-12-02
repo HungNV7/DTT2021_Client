@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -42,28 +43,29 @@ namespace ClientDTT.User_Control
             txtBlockPointList.Add(txtBlockPoint3);
             txtBlockNameList.Add(txtBlockName4);
             txtBlockPointList.Add(txtBlockPoint4);
-            StartTime();
+            btnAnswer.IsEnabled = false;
+            //StartTime();
 
         }
 
-        void StartTime()
-        {
-            DispatcherTimer time = new DispatcherTimer();
-            time.Interval = TimeSpan.FromSeconds(1);
-            time.Tick += TimeEvent;
-            time.Start();
-        }
-        void TimeEvent(object sender, EventArgs e)
-        {
-            if (time > 0)
-                time--;
-            txtBlockClock.Text = time.ToString();
-            if (time == 0)
-            {
-                btnAnswer.IsEnabled = false;
-            }
-            else btnAnswer.IsEnabled = true;
-        }
+        //void StartTime()
+        //{
+        //    DispatcherTimer time = new DispatcherTimer();
+        //    time.Interval = TimeSpan.FromSeconds(1);
+        //    time.Tick += TimeEvent;
+        //    time.Start();
+        //}
+        //void TimeEvent(object sender, EventArgs e)
+        //{
+        //    if (time > 0)
+        //        time--;
+        //    txtBlockClock.Text = time.ToString();
+        //    if (time == 0)
+        //    {
+        //        btnAnswer.IsEnabled = false;
+        //    }
+        //    else btnAnswer.IsEnabled = true;
+        //}
 
         private void BtnAnswer_Click(object sender, RoutedEventArgs e)
         {
@@ -97,8 +99,27 @@ namespace ClientDTT.User_Control
                 case "2":
                     time = int.Parse(messageList[1]);
                     txtBlockClock.Text = messageList[1];
+                    OpenBell();
                     break;
             }
+        }
+
+        public void OpenBell()
+        {
+            btnAnswer.IsEnabled = true;
+            Thread thread = new Thread(() =>
+            {
+                while (time != 0)
+                {
+                    Thread.Sleep(1000);
+                    time--;
+                    this.Dispatcher.Invoke(() => txtBlockClock.Text = time + "");
+                }
+                this.Dispatcher.Invoke(() => btnAnswer.IsEnabled = false);        
+            });
+            
+            thread.IsBackground = true;
+            thread.Start();
         }
     }
 }

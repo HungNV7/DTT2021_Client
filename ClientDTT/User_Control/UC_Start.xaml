@@ -19,7 +19,7 @@
             <RowDefinition Height="1*"></RowDefinition>
             <RowDefinition Height="1*"></RowDefinition>
         </Grid.RowDefinitions>
-        <MediaElement Name="TimeVideo" Grid.Column="0" Stretch="Fill" LoadedBehavior="Manual"/>
+        
         <Image Name="BackgroundImg" Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="0" Grid.RowSpan="6" Stretch="Fill"/>
         <Grid Grid.Row="0">
             <TextBlock Foreground="White" FontWeight="DemiBold" Background="#212121"
@@ -32,7 +32,7 @@
                 <ColumnDefinition Width="0.9*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <Grid Grid.Column="0">
-               
+                <MediaElement Name="TimeVideo" Grid.Column="0" Stretch="Fill" LoadedBehavior="Manual"/>
             </Grid>
             <Grid Grid.Column="1">
                 <Image Name="imgQuestion" Grid.Column="1" Stretch="Fill"/>

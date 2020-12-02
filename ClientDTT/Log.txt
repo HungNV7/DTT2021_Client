@@ -43,3 +43,109 @@ Receive: 2_2
 Send: 2_1_COn lon
 Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
 Receive: 2_2
+Send: 0_
+Receive: 2_0_Văn Hùng_80_Khánh Hưng_80_Quốc Bửu_50_Diễm Quỳnh_0
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 2_1_Cho nay
+Send: 2_0
+Receive: 2_3
+Receive: 2_1_Nguyên tố nào phổ biến thứ 3 trong vũ trụ theo khối lượng?
+Receive: 2_2
+Send: 2_1_Loi nay
+Send: 2_0
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_60_Trưởng Hon_30_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_1_1_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?_
+Receive: 1_0_Hổng Tĩnh_70_Trưởng Hon_30_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 1_1_0_Ngôn ngữ gốc được sử dụng trong truyện cổ Grim là gì?_
+Send: 0_
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Send: 2_1_Con heo
+Send: 2_0
+Send: 0_
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_2
+Send: 2_0
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Send: 0_
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Send: 2_0
+Send: 0_
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_70_Diễm Quỳnh_50
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_2
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_80_Diễm Quỳnh_50
+Send: 2_0
+Receive: 2_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_80_Diễm Quỳnh_50
+Send: 0_
+Receive: 4_0_Hổng Tĩnh_90_Trưởng Hon_40_Quốc Bửu_80_Diễm Quỳnh_50
+Send: 0_
+Receive: 4_0_Hổng Tĩnh_130_Trưởng Hon_70_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Theo hiệp ước Nam Cực, tài nguyên của Nam Cực chỉ được dùng cho mục đích hòa bình và mục đich nào?
+Receive: 4_0_Hổng Tĩnh_130_Trưởng Hon_70_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_2_5
+Send: 0_
+Receive: 4_1_Theo hiệp ước Nam Cực, tài nguyên của Nam Cực chỉ được dùng cho mục đích hòa bình và mục đich nào?
+Send: 4_
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_70_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Khi bị ốm, mất sức, nhiều người bệnh thường được truyền dung dịch đường để bổ sung năng lượng. Loại đường nào có trong dịch truyền trên?
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_70_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_2_5
+Send: 0_
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_70_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Theo hiệp ước Nam Cực, tài nguyên của Nam Cực chỉ được dùng cho mục đích hòa bình và mục đich nào?
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Khi bị ốm, mất sức, nhiều người bệnh thường được truyền dung dịch đường để bổ sung năng lượng. Loại đường nào có trong dịch truyền trên?
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_2_5
+Send: 4_
+Send: 0_
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Theo hiệp ước Nam Cực, tài nguyên của Nam Cực chỉ được dùng cho mục đích hòa bình và mục đich nào?
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_2_5
+Send: 0_
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Theo hiệp ước Nam Cực, tài nguyên của Nam Cực chỉ được dùng cho mục đích hòa bình và mục đich nào?
+Receive: 4_0_Hổng Tĩnh_125_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_2_5
+Send: 4_
+Receive: 4_0_Hổng Tĩnh_120_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_1_Hai thành phố trực thuộc Trung ương nào của nước ta không giáp biển?
+Receive: 4_0_Hổng Tĩnh_120_Trưởng Hon_80_Quốc Bửu_160_Diễm Quỳnh_70
+Receive: 4_2_5
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_
+Send: 4_

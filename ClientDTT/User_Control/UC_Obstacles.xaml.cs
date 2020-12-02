@@ -109,7 +109,11 @@ namespace ClientDTT.User_Control
                         btnAnswer.IsEnabled = true;
                     }
                     break;
-      
+                case "3":
+                    IsEliminated = false;
+                    btnBell.IsEnabled = true;
+                    btnAnswer.IsEnabled = true;
+                    break;
             }
         }
 
