@@ -37,7 +37,7 @@
                     <RowDefinition></RowDefinition>
                     <RowDefinition></RowDefinition>
                 </Grid.RowDefinitions>
-                <Grid  Grid.Row="2" HorizontalAlignment="Left" Margin="5,0,0,0">
+                <Grid  Grid.Row="1" HorizontalAlignment="Left" Margin="5,0,0,0">
                     <Viewbox>
                         <Button Name="btnAnswer" Grid.Row="3"
                               Style="{StaticResource MaterialDesignFlatMidBgButton}"
@@ -45,7 +45,18 @@
                             Background="#92817a" Content="Nộp đáp án"  Click="BtnAnswer_Click" Foreground="Black"/>
                     </Viewbox>
                 </Grid>
-            </Grid>
+                    <Grid Grid.Row="2" HorizontalAlignment="Left">
+                        <Viewbox Grid.Row="2">
+                            <Button Name="btnBell" Grid.Row="1" 
+                            Style="{StaticResource MaterialDesignRaisedButton}"
+                            materialDesign:ButtonAssist.CornerRadius="7"
+                            materialDesign:ButtonProgressAssist.Value="-1"
+                            materialDesign:ButtonProgressAssist.IsIndicatorVisible="True"
+                            materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+                            Background="#ff3d00" Content="Chuông trả lời" Click="BtnBell_Click" Foreground="White"/>
+                        </Viewbox>
+                    </Grid>
+                </Grid>
             </Border>
             <Border  Grid.Column="1" BorderBrush="Black" BorderThickness="1">
             <Grid Name="gridMatrix">

@@ -28,6 +28,7 @@ namespace ClientDTT.User_Control
         List<TextBlock> txtBlockPointList = new List<TextBlock>();
         SupportClass.MediaAct mediaAct = new SupportClass.MediaAct();
         ExtendedWindow.EW_PointScreen eW_PointScreen;
+        bool IsEliminated = false;
         public UC_Decode(SupportClass.Client _client,ExtendedWindow.EW_PointScreen ew_PointScreen)
         {
             InitializeComponent();
@@ -44,6 +45,8 @@ namespace ClientDTT.User_Control
             txtBlockPointList.Add(txtBlockPoint2);
             txtBlockPointList.Add(txtBlockPoint3);
             txtBlockPointList.Add(txtBlockPoint4);
+
+            btnBell.IsEnabled = false;
         }
         void StartTime()
         {
@@ -63,6 +66,7 @@ namespace ClientDTT.User_Control
                         txtBlockClock.Text = Math.Round(time, 0).ToString();
                         btnAnswer.IsEnabled = true;
                         txtBoxAnswer.IsEnabled = true;
+                        btnBell.IsEnabled = true;
                     });
                     DateTime end = DateTime.Now;
                     time = time - (double)(end.Ticks - start.Ticks) / 10000000;
@@ -75,6 +79,7 @@ namespace ClientDTT.User_Control
                         txtBlockClock.Text = Math.Round(time, 0).ToString();
                         btnAnswer.IsEnabled = false;
                         txtBoxAnswer.IsEnabled = false;
+                        btnBell.IsEnabled = false;
                     });
                 }
             }
@@ -107,6 +112,7 @@ namespace ClientDTT.User_Control
                             eW_PointScreen.txtBlockMainStudent.Text = txtBlockNameList[i].Text;
                         }
                     }
+
                     break;
                 case "1":
                     txtBlockQuestion.Text = messageList[1];
@@ -117,6 +123,13 @@ namespace ClientDTT.User_Control
                     time = int.Parse(messageList[1]);
                     btnAnswer.IsEnabled = true;
                     txtBoxAnswer.IsEnabled = true;
+                    if (!IsEliminated)
+                    {
+                        btnBell.IsEnabled = true;
+                    }
+                    break;
+                case "3":
+                    IsEliminated = false;
                     break;
             }
         }
@@ -129,6 +142,13 @@ namespace ClientDTT.User_Control
                 client.Send(5, message);
                 txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
             }
+        }
+
+        private void BtnBell_Click(object sender, RoutedEventArgs e)
+        {
+            client.Send(5, "1");
+            IsEliminated = true;
+            btnBell.IsEnabled = false;
         }
     }
 }

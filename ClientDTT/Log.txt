@@ -149,3 +149,414 @@ Send: 4_
 Send: 4_
 Send: 4_
 Send: 4_
+Send: 0_
+Receive: 1_0_Lý Vũ _10_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 4_0_Lý Vũ _0_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _0_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Send: 0_
+Receive: 1_0_Lý Vũ _0_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _10_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _20_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _30_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _40_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _50_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_0_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_0_Bộ phận nào của hệ hô hấp ở người có chức năng phát âm?_
+Receive: 1_1_1_Tam Đa là từ dùng để chỉ ba vị thần nào?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_10_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_IChO là cuộc thi quốc tế dành cho học sinh trung học phổ thông ở môn khoa học nào?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_20_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_0_Trong lịch sử nước ta, lá cờ đỏ sao vàng lần đầu tiên xuất hiện trong cuộc khởi nghĩa nào?_
+Receive: 1_1_1_In which country was Pablo Picasso born?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_30_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Thời hạn cho giấy phép lái xe hạng A1 là bao nhiêu năm?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_40_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Dòng điện dân dụng ở Việt Nam có tần số là bao nhiêu?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_50_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Bài thơ Đồng Chí của Chính Hữu được viết trong cuộc kháng chiến quân xâm lược nào?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_60_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_0_Nền văn minh nào được khai sinh và phát triển trên vùng lưu vực 2 con sông Tigris và Euphrates ?_
+Receive: 1_1_1_Nguyên tố hóa học nào là nguyên tố kim loại phổ biến nhất trong vỏ trái đất?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_70_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Ai là người đã soạn Thất Trảm Sớ đề nghị chém 7 kẻ nịnh thần?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_80_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Bức tranh “Bác Hồ với thiếu nhi ba miền Trung, Nam, Bắc” của họa sĩ Diệp Minh Châu được vẽ bằng chất liệu gì?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_90_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_How many edges are there in a hexagon?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_100_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Hai đường tròn tiếp xúc ngoài với nhau có bao nhiêu tiếp tuyến chung?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_110_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_1_1_Trong số động mạch, tĩnh mạch và mao mạch, loại mạch nào có huyết áp nhỏ nhất?_
+Receive: 1_0_Lý Vũ _60_Văn Hùng_120_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_0_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_10_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_20_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_30_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_40_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_50_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_60_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_70_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_80_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_90_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_100_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_110_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_120_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_130_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_140_Hãi Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hãi Ngân _0
+Send: 0_
+Receive: 0_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_0_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_0_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_10_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_20_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_30_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_40_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_50_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_60_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_70_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_80_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_90_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_100_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_110_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_120_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_130_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_140_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_160_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_170_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_180_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_190_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_200_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_210_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_220_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_230_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_240_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_250_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_260_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_270_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_280_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_290_Hải Ngân _0
+Receive: 0_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_0_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_10_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_20_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_30_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_40_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_50_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_60_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_70_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_80_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_90_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_100_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_110_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_120_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_130_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_140_Hải Ngân _0
+Receive: 1_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Receive: 0_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Receive: 0_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Send: 0_
+Receive: 0_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Receive: 3_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Receive: 3_0_Lý Vũ _60_Văn Hùng_130_Khánh Hưng_150_Hải Ngân _0
+Receive: 3_1
+Send: 3_23.758708199999_Dm VU
+Receive: 3_1
+Send: 3_18.7122080999984_ADBC
+Send: 3_11.0500940999982_BACC
+Send: 3_7.27718189999826_BACC
+Send: 3_7.01488429999827_BACC
+Send: 3_3.96205289999826_BADC
+1.62728369999825_BADC
+Send: 3_1.62728369999825_BADC
+1.28320459999825_BADC
+Send: 3_1.28320459999825_BADC
+1.10168889999825_BADC
+Send: 3_1.10168889999825_BADC
+Receive: 3_0_Lý Vũ _90_Văn Hùng_170_Khánh Hưng_150_Hải Ngân _0
+Receive: 3_1
+Receive: 3_1
+Send: 3_24.4598354999993_ahii
+23.2657146999991_ahii
+Send: 3_23.2657146999991_ahii
+Receive: 3_0_Lý Vũ _120_Văn Hùng_190_Khánh Hưng_190_Hải Ngân _0
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_1
+Send: 3_1.53217999999812_d
+0.134924999998117_d
+Send: 3_0.134924999998117_d
+0_d
+Send: 3_0_d
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_1
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 3_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 4_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân _40
+Receive: 4_1_Sông Bạch Đằng là ranh giới tự nhiên của 2 tỉnh thành nào?
+Receive: 4_0_Lý Vũ _150_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_1_Sông Bạch Đằng là ranh giới tự nhiên của 2 tỉnh thành nào?
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri Thức
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_195_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_1_Đối với bếp từ, để thay đổi nhiệt độ đun, người ta thay đổi đại lượng gì của dòng điện?
+Receive: 4_0_Lý Vũ _180_Văn Hùng_195_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_0_Lý Vũ _180_Văn Hùng_195_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_205_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_0_Lý Vũ _170_Văn Hùng_205_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_190_Hải Ngân_40
+Receive: 4_1_Điểm kiểm tra trên thang điểm 10 của bốn bạn Tùng, Cúc, Trúc, Mai là bốn số tự nhiên liên tiếp có tổng là một số chia hết cho 13. Biết Tùng ít điểm nhất, Mai cao điểm nhất và Cúc thì thua Trúc. Hỏi bạn Trúc được mấy điểm?
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_160_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri Thức
+Receive: 4_1_Góc giữa kim giờ và kim phút vào lúc 3 giờ 15 phút là bao nhiêu độ?
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_160_Hải Ngân_40
+Receive: 4_2_5
+Receive: 4_1_Ngôi chùa nào là ngôi chùa cuối cùng được phong sắc tứ của chế độ phong kiến nước ta?
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_160_Hải Ngân_70
+Receive: 4_1_Bạn hãy trả lời câu hỏi của nhóm phóng viên Đỉnh Tri Thức
+Receive: 4_1_Trong vở chèo "Quan Âm Thị Kính", nhân vật Thị Kính sau khi đi tu đã lấy pháp hiệu là gì?
+Receive: 4_0_Lý Vũ _170_Văn Hùng_200_Khánh Hưng_160_Hải Ngân_70
+Receive: 4_2_5
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_2_5
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 1_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Receive: 2_2
+Send: 2_1_SDSADASDASD
+Receive: 2_2
+Receive: 2_2
+Receive: 2_2
+Receive: 2_2
+Send: 2_1_SDSADASDASDaaaaaaaaaaaaaaa
+Send: 2_1_SDSADASDASDaaaaaaaaaaaaaaaaaaaaaaa
+Send: 2_0
+Receive: 4_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _170_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_0_Lý Vũ _180_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Send: 0_
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Lý Vũ _180_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_3
+Receive: 2_0_Lý Vũ _180_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_60
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_2
+Receive: 2_0_Lý Vũ _180_Văn Hùng_210_Khánh Hưng_160_Hải Ngân_70
+Receive: 0_0_Lý Vũ _180_Văn Hùng_290_Khánh Hưng_160_Hải Ngân_70
+Receive: 2_0_Lý Vũ _180_Văn Hùng_290_Khánh Hưng_160_Hải Ngân_70
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Lý Vũ _180_Văn Hùng_290_Khánh Hưng_160_Hải Ngân_70
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Receive: 2_1_Khu vực tập trung dân cư sinh sống có mật độ cao và chủ yếu hoạt động trong lĩnh vực kinh tế phi nông nghiệp được gọi là gì?
+Receive: 2_2
+Send: 2_0
+Send: 0_
+Receive: 2_1_UNEP là cơ quan của Liên Hiệp Quốc chuyên điều phối các hoạt động về lĩnh vực gì?
+Receive: 2_1_UNEP là cơ quan của Liên Hiệp Quốc chuyên điều phối các hoạt động về lĩnh vực gì?
+Receive: 2_1_UNEP là cơ quan của Liên Hiệp Quốc chuyên điều phối các hoạt động về lĩnh vực gì?
+Receive: 2_1_UNEP là cơ quan của Liên Hiệp Quốc chuyên điều phối các hoạt động về lĩnh vực gì?
+Receive: 2_2
+Receive: 2_2
+Receive: 2_3
+Receive: 2_1_Nguyên tố nào phổ biến thứ 3 trong vũ trụ theo khối lượng?
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_1_1_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?_
+Receive: 1_0_Hổng Tĩnh_10_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 2_3
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 2_3
+Receive: 2_1_Trong vùng ánh sáng khả kiến, ánh sáng nào có bước sóng dài nhất?
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Send: 5_1
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_2_15
+Send: 5_1
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_CaSO4.2H2O là công thức hóa học của loại thạch cao nào?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_Thành phố nào ở châu Âu được mệnh danh là "thành phố vĩnh hằng"?
+Receive: 5_2_25
+Receive: 5_3
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_Trong vòng tuần hoàn lớn, tim bơm máu từ tâm nhĩ trái tới tâm thất trái và từ tâm thất trái vào động mạch nào?
+Receive: 5_2_15
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_2_15
+Send: 5_0_9.236_aaa
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_2_15
+Receive: 5_2_15
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_CaSO4.2H2O là công thức hóa học của loại thạch cao nào?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Send: 5_1

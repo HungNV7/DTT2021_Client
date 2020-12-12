@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -37,7 +38,7 @@ namespace ClientDTT.User_Control
             client = _client;
             eW_PointScreen = ew_PointScreen;
 
-            StartTime();
+            //StartTime();
         }
 
         void StartTime()
@@ -105,8 +106,7 @@ namespace ClientDTT.User_Control
                     time = 15;
                     if (!IsEliminated)
                     {
-                        txtBoxAnswer.IsEnabled = true;
-                        btnAnswer.IsEnabled = true;
+                        OpenAnswerButton();
                     }
                     break;
                 case "3":
@@ -138,6 +138,25 @@ namespace ClientDTT.User_Control
                 client.Send(2, "1_" + txtBoxAnswer.Text);
                 txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
             }
+        }
+
+        public void OpenAnswerButton()
+        {
+            txtBoxAnswer.IsEnabled = true;
+            btnAnswer.IsEnabled = true;
+            Thread thread = new Thread(() =>
+            {
+                while (time != 0)
+                {
+                    Thread.Sleep(1000);
+                    time--;
+                    this.Dispatcher.Invoke(() => txtBlockClock.Text = time + "");
+                }
+                this.Dispatcher.Invoke(() => btnAnswer.IsEnabled = false);
+            });
+
+            thread.IsBackground = true;
+            thread.Start();
         }
     }
 }
