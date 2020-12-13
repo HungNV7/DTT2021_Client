@@ -29,6 +29,7 @@ namespace ClientDTT.User_Control
         SupportClass.MediaAct mediaAct = new SupportClass.MediaAct();
         ExtendedWindow.EW_PointScreen eW_PointScreen;
         bool IsEliminated = false;
+        bool IsHint = false;
         public UC_Decode(SupportClass.Client _client,ExtendedWindow.EW_PointScreen ew_PointScreen)
         {
             InitializeComponent();
@@ -64,12 +65,18 @@ namespace ClientDTT.User_Control
                     this.Dispatcher.Invoke(() =>
                     {
                         txtBlockClock.Text = Math.Round(time, 0).ToString();
-                        btnAnswer.IsEnabled = true;
-                        txtBoxAnswer.IsEnabled = true;
-                        if (!IsEliminated)
+                        if (!IsHint)
                         {
-                            btnBell.IsEnabled = true;
-                        } 
+                            btnAnswer.IsEnabled = true;
+                            txtBoxAnswer.IsEnabled = true;
+                        }
+                        else
+                        {
+                            if (!IsEliminated)
+                            {
+                                btnBell.IsEnabled = true;
+                            }
+                        }
                     });
                     DateTime end = DateTime.Now;
                     time = time - (double)(end.Ticks - start.Ticks) / 10000000;
@@ -119,6 +126,14 @@ namespace ClientDTT.User_Control
                     break;
                 case "1":
                     txtBlockQuestion.Text = messageList[1];
+                    if(messageList[1] == "Gợi ý")
+                    {
+                        IsHint = true;
+                    }
+                    else
+                    {
+                        IsHint = false;
+                    }
                     txtBoxAnswer.Text = string.Empty;
                     break;
                 case "2":

@@ -624,3 +624,25 @@ Receive: 5_2_15
 Receive: 5_3
 Receive: 5_1_Gợi ý
 Receive: 5_2_15
+Send: 0_
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Send: 5_0_10.351_aaaaaaaaaa
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
