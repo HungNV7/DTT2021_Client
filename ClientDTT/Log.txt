@@ -560,3 +560,67 @@ Receive: 5_2_15
 Receive: 5_1_Gợi ý
 Receive: 5_2_15
 Send: 5_1
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Send: 5_1
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_2_15
+Send: 5_0_4.708_Kim Lien
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_3
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_1_Đồng hồ nguyên tử điều chỉnh thời gian theo trạng thái dao động của nguyên tử, là đồng hồ chính xác nhất cho đến hiện nay. Bạn hãy cho biết nguyên tố nào được sử dụng để tính tần số bức xạ trong đồng hồ nguyên tử ?
+Receive: 5_2_25
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_3
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_2_15
+Receive: 5_2_15
+Send: 0_
+Receive: 5_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Send: 5_1
+Receive: 5_3
+Receive: 5_3
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Send: 5_1
+Receive: 5_1_Đoạn thơ sau được trích từ tác phẩm nào của Nguyễn Đình Chiểu?
+"Quán rằng: "Kinh sử đã từng,
+Coi rồi lại khiến lòng hằng xót xa
+Hỏi thời ta phải nói ra
+Vì chưng hay ghét cũng là hay thương".
+Receive: 5_2_15
+Receive: 5_1_Gợi ý
+Receive: 5_2_15
+Receive: 5_3
+Receive: 5_1_Gợi ý
+Receive: 5_2_15

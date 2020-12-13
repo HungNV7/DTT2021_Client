@@ -66,7 +66,10 @@ namespace ClientDTT.User_Control
                         txtBlockClock.Text = Math.Round(time, 0).ToString();
                         btnAnswer.IsEnabled = true;
                         txtBoxAnswer.IsEnabled = true;
-                        btnBell.IsEnabled = true;
+                        if (!IsEliminated)
+                        {
+                            btnBell.IsEnabled = true;
+                        } 
                     });
                     DateTime end = DateTime.Now;
                     time = time - (double)(end.Ticks - start.Ticks) / 10000000;
@@ -120,13 +123,13 @@ namespace ClientDTT.User_Control
                     break;
                 case "2":
                     txtBlockClock.Text = messageList[1];
+                    //if (!IsEliminated)
+                    //{
+                    //    btnBell.IsEnabled = true;
+                    //}
                     time = int.Parse(messageList[1]);
                     btnAnswer.IsEnabled = true;
                     txtBoxAnswer.IsEnabled = true;
-                    if (!IsEliminated)
-                    {
-                        btnBell.IsEnabled = true;
-                    }
                     break;
                 case "3":
                     IsEliminated = false;
