@@ -86,6 +86,9 @@
     <Compile Include="User_Control\UC_Start.xaml.cs">
       <DependentUpon>UC_Start.xaml</DependentUpon>
     </Compile>
+    <Compile Include="User_Control\UC_SubQuestions.xaml.cs">
+      <DependentUpon>UC_SubQuestions.xaml</DependentUpon>
+    </Compile>
     <Page Include="ExtendedWindow\EW_PointScreen.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -123,6 +126,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="User_Control\UC_Start.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="User_Control\UC_SubQuestions.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

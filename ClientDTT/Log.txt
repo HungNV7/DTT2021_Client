@@ -646,3 +646,78 @@ Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đô
 Bạn hãy cho biết có bao nhiêu cỗ và khách?
 Receive: 5_1_Gợi ý
 Receive: 5_2_15
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_1_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?
+Receive: 6_2
+Receive: 6_2
+Send: 6_0
+Receive: 6_3
+Receive: 6_4
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_1_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?
+Receive: 6_2
+Send: 6_0
+Receive: 6_3
+Receive: 6_4
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_1_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?
+Receive: 6_2
+Send: 6_0
+Receive: 6_3
+Receive: 6_4
+Receive: 6_2
+Send: 6_0
+Receive: 6_3
+Receive: 6_4
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_1_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?
+Receive: 6_2
+Send: 6_0
+Receive: 6_3
+Receive: 6_3
+Receive: 6_1_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?
+Receive: 6_2
+Receive: 6_3
+Receive: 6_4
+Send: 6_0
+Receive: 6_3
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_1_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?
+Receive: 6_2
+Receive: 6_3
+Receive: 6_4
+Send: 6_0
+Receive: 6_3
+Receive: 6_1_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?
+Send: 0_
+Receive: 6_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 6_1_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?
+Receive: 6_2
+Receive: 6_3
+Receive: 6_4
+Send: 6_0
+Receive: 6_3
+Receive: 6_1_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?
+Receive: 6_2

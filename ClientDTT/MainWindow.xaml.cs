@@ -29,6 +29,7 @@ namespace ClientDTT
         UC_Finish uC_Finish;
         UC_Accelerate uC_Accelerate;
         UC_Obstacles uC_Obstacles;
+        UC_SubQuestions uC_SubQuestions;
         ExtendedWindow.EW_PointScreen eW_PointScreen = new ExtendedWindow.EW_PointScreen();
         public MainWindow()
         {
@@ -40,6 +41,7 @@ namespace ClientDTT
             uC_Finish = new UC_Finish(client, eW_PointScreen);
             uC_Accelerate = new UC_Accelerate(client, eW_PointScreen);
             uC_Obstacles = new UC_Obstacles(client, eW_PointScreen);
+            uC_SubQuestions = new UC_SubQuestions(client, eW_PointScreen);
         }
         public void SolveMessage(string message)
         {
@@ -80,6 +82,10 @@ namespace ClientDTT
                 case '5':
                     this.Content = uC_Decode;
                     uC_Decode.SolveMessage(message.Substring(2));
+                    break;
+                case '6':
+                    this.Content = uC_SubQuestions;
+                    uC_SubQuestions.SolveMessage(message.Substring(2));
                     break;
             }
         }
