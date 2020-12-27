@@ -68,6 +68,7 @@ namespace ClientDTT.User_Control
                 case "1":
                     if (!IsQuestionShown)
                     {
+                        mediaAct.Stop(TimeVideo);
                         mediaAct.Play(TimeVideo);
                         IsQuestionShown = true;
                     }
@@ -86,6 +87,10 @@ namespace ClientDTT.User_Control
                     {
                         imgQuestion.Visibility = Visibility.Hidden;
                     }
+                    break;
+                case "2":
+                    IsQuestionShown = false;
+                    mediaAct.Stop(TimeVideo);
                     break;
             }
         }

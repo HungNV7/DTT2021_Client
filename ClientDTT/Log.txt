@@ -721,3 +721,23 @@ Send: 6_0
 Receive: 6_3
 Receive: 6_1_Quốc kỳ Việt Nam có bao nhiêu tâm đối xứng?
 Receive: 6_2
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Send: 0_
+Receive: 1_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_2
+Receive: 1_1_0_Trong số : mặt phẳng nghiêng, đòn bẩy, ròng rọc, máy cơ đơn giản nào cho ta lợi về công?_
+Receive: 1_2
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 2_1_Cho Lien hihihihihihihihihi
