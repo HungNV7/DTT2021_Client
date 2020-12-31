@@ -62,8 +62,8 @@ namespace ClientDTT.User_Control
 
         private void BtnAnswer_Click(object sender, RoutedEventArgs e)
         {
-            client.Send(2, "1_" + txtBoxAnswer.Text);
-            txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
+            client.Send(2, "1_" + txtBoxAnswer.Text.ToUpper());
+            txtBlockStudentAnswer.Text = txtBoxAnswer.Text.ToUpper();
         }
 
         private void BtnBell_Click(object sender, RoutedEventArgs e)
@@ -135,8 +135,8 @@ namespace ClientDTT.User_Control
         {
             if (e.Key == Key.Enter)
             {
-                client.Send(2, "1_" + txtBoxAnswer.Text);
-                txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
+                client.Send(2, "1_" + txtBoxAnswer.Text.ToUpper());
+                txtBlockStudentAnswer.Text = txtBoxAnswer.Text.ToUpper();
             }
         }
 
@@ -150,9 +150,9 @@ namespace ClientDTT.User_Control
                 {
                     Thread.Sleep(1000);
                     time--;
-                    this.Dispatcher.Invoke(() => txtBlockClock.Text = time + "");
+                    this.Dispatcher.Invoke(() => { txtBlockClock.Text = time + ""; txtBoxAnswer.IsEnabled = true; });
                 }
-                this.Dispatcher.Invoke(() => btnAnswer.IsEnabled = false);
+                this.Dispatcher.Invoke(() => { btnAnswer.IsEnabled = false; txtBoxAnswer.IsEnabled = false; });
             });
 
             thread.IsBackground = true;

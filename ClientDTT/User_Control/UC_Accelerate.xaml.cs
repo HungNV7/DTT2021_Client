@@ -83,13 +83,13 @@ namespace ClientDTT.User_Control
 
         private void BtnAnswer_Click(object sender, RoutedEventArgs e)
         {
-            string message = time.ToString() + "_" + txtBoxAnswer.Text;
+            string message = time.ToString() + "_" + txtBoxAnswer.Text.ToUpper();
 
             System.IO.StreamWriter streamWriter = System.IO.File.AppendText("Log.txt");
             streamWriter.Write(message + "\n");
             streamWriter.Close();
 
-            txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
+            txtBlockStudentAnswer.Text = txtBoxAnswer.Text.ToUpper();
             client.Send(3, message);
         }
 
@@ -128,9 +128,9 @@ namespace ClientDTT.User_Control
         {
             if(e.Key==Key.Enter)
             {
-                string message = time.ToString() + "_" + txtBoxAnswer.Text;
+                string message = time.ToString() + "_" + txtBoxAnswer.Text.ToUpper();
 
-                txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
+                txtBlockStudentAnswer.Text = txtBoxAnswer.Text.ToUpper();
                 client.Send(3, message);
             }
         }

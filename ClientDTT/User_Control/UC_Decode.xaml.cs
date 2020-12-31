@@ -97,8 +97,8 @@ namespace ClientDTT.User_Control
 
         private void BtnAnswer_Click(object sender, RoutedEventArgs e)
         {
-            string message = "0_" + Math.Round(time, 3).ToString() + "_" + txtBoxAnswer.Text;
-            txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
+            string message = "0_" + Math.Round(time, 3).ToString() + "_" + txtBoxAnswer.Text.ToUpper();
+            txtBlockStudentAnswer.Text = txtBoxAnswer.Text.ToUpper();
             client.Send(5, message);
         }
 
@@ -156,9 +156,9 @@ namespace ClientDTT.User_Control
         {
             if(e.Key==Key.Enter)
             {
-                string message = "0_" + Math.Round(time, 3).ToString() + "_" + txtBoxAnswer.Text;
+                string message = "0_" + Math.Round(time, 3).ToString() + "_" + txtBoxAnswer.Text.ToUpper();
                 client.Send(5, message);
-                txtBlockStudentAnswer.Text = txtBoxAnswer.Text;
+                txtBlockStudentAnswer.Text = txtBoxAnswer.Text.ToUpper();
             }
         }
 

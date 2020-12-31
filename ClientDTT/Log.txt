@@ -741,3 +741,38 @@ Receive: 2_0_Hổng Tĩnh_0_Trưởng Hon_0_Quốc Bửu_0_Hữu Thắng_0
 Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
 Receive: 2_2
 Send: 2_1_Cho Lien hihihihihihihihihi
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Quốc Bảo_250_Thanh Lam_150_Kim Liên_135_Quốc Bửu_180
+Receive: 2_1_Năm 2015, ở Paris đã diễn ra Hội nghị Liên Hiệp Quốc về vấn đề gì?
+Receive: 2_2
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Quốc Bảo_250_Thanh Lam_150_Kim Liên_135_Quốc Bửu_180
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 2_1_Cho Lien
+Send: 2_1_Cho Lien an cut heo
+Receive: 2_1_Phế nang là đơn vị chức năng của cơ quan nào trong cơ thể con người?
+Receive: 2_2
+Send: 2_1_dsdsdasdasdsadasd
+Send: 2_1_Cho Lien
+Send: 2_1_Cho Lien hihi
+Send: 2_0
+Send: 0_
+Receive: 2_3
+Receive: 2_0_Quốc Bảo_250_Thanh Lam_150_Kim Liên_135_Quốc Bửu_180
+Receive: 2_1_Thành phố nào của nước ta được UNESCO trao danh hiệu "Thành phố vì hoà bình" vào ngày 16 tháng 7 năm 1999?
+Receive: 2_2
+Send: 2_1_CHO LIEN
+Send: 2_1_CHO LIEN THICHS CUWF DEU KO
+Receive: 3_0_Quốc Bảo_250_Thanh Lam_150_Kim Liên_135_Quốc Bửu_180
+Receive: 3_1
+Send: 3_10.8611679999997_ĐUA XE CÔNG THỨC F1
+Receive: 5_0_Quốc Bảo_250_Thanh Lam_150_Kim Liên_135_Quốc Bửu_180
+Receive: 5_1_Nhà kia con gái đi lấy chồng/Họ hàng khách khứa rất là đông
+Năm người một cỗ thừa một cỗ/Bốn người một cỗ bốn người không/
+Hỏi rằng dọn cỗ bao nhiêu nhỉ?/Gia chủ mời khách liệu có đông?
+Bạn hãy cho biết có bao nhiêu cỗ và khách?
+Receive: 5_2_15
+Send: 5_0_1.356_HELLO BẠN KIM LIÊN TRẤN

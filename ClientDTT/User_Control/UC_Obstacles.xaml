@@ -91,7 +91,7 @@
                         <TextBlock  Grid.Row="0" Background="#616161" Foreground="White" FontWeight="DemiBold" Margin="1"
                    Text="Tên" TextAlignment="Center" FontSize="30"/>
                         <TextBlock Name="txtBlockName1" Grid.Row="1" Background="#9e9e9e" Foreground="White" FontWeight="DemiBold" Margin="1,1,1.2,0"
-                   Text="TS1" TextAlignment="Center" FontSize="25" Height="38" VerticalAlignment="Top"/>
+                   Text="TS1" TextAlignment="Center" FontSize="25"/>
                         <TextBlock Name="txtBlockName2" Grid.Column="1" Grid.Row="2" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1"
                    Text="TS2" TextAlignment="Center" FontSize="25"/>
                         <TextBlock Name="txtBlockName3" Grid.Column="1" Grid.Row="3" Background="#9e9e9e" Foreground="White"  FontWeight="DemiBold"  Margin="1"
